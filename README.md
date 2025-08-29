@@ -1,3 +1,6 @@
+# 👨🏿‍💻 Kauan de Souza Melo
+**`Desenvolvedor Back-End`**
+
 Olá, sou o Kauan de Souza Melo, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio em escola pública. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln, onde aprendo e ensino a criar projetos web.
 
 <p align="left">
